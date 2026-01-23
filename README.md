@@ -105,6 +105,11 @@ Final Year Student | Machine Learning & NLP Enthusiast
 
 ---
 
+## This app is live on
+https://movie-review-sentiment-analysis-using-lstm-txgk39mtwydiyfofczv.streamlit.app/
+
+---
+
 ## ⭐ Acknowledgements
 
 * TensorFlow / Keras
